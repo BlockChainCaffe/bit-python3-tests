@@ -1,5 +1,10 @@
 #!/usr/bin/python3
 
+'''
+https://github.com/ofek/bit
+https://ofek.github.io/bit/index.html
+'''
+
 import sys
 import bit
 from bit import utils
